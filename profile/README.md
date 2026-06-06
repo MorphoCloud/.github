@@ -1,12 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MorphoCloud/.github/main/profile/MC_Logo.png" alt="MorphoCloud logo" width="140">
+</p>
 
-<!--
+<h1 align="center">MorphoCloud</h1>
 
-**Here are some ideas to get you started:**
+<p align="center"><strong>GPU-enabled cloud workstations for 3D Slicer &amp; SlicerMorph</strong></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Pre-loaded for 3D morphometrics and biomedical imaging and running on [JetStream2](https://jetstream-cloud.org/), MorphoCloud lets you spin up a full desktop in your browser in minutes — no local setup. Instances are managed entirely through GitHub Issues: request one, then drive it with commands like `/create`, `/shelve`, and `/unshelve`.
+
+## ▶ Get started at [**morphocloud.org**](https://morphocloud.org)
+
+Head to **[morphocloud.org](https://morphocloud.org)** to check live resource availability, learn more, and pick your path:
+
+- **Individual researcher** — join and request your own instance
+- **Instructor** — use MorphoCloud as part of a course
+- **Workshop organizer** — provision instances for an event
+
+---
+
+NSF- and NIH-funded infrastructure for the morphology research community · Questions? [portal@morphocloud.org](mailto:portal@morphocloud.org)
