@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MorphoCloud/.github/main/profile/MC_Logo.png" alt="MorphoCloud logo" width="300">
-  <img src="https://github.com/muratmaga/morphocloud-wordmap/blob/master/wordmap.png" alt="What people user MorphoCloud for" width="500">
+  <img src="https://raw.githubusercontent.com/MorphoCloud/morphocloud-wordmap/master/wordmap.png" alt="What people use MorphoCloud for" width="500">
 </p>
 
 <h1 align="center">MorphoCloud</h1>
