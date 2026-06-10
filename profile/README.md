@@ -7,7 +7,7 @@
 
 <p align="center"><strong>GPU-enabled cloud workstations for 3D Slicer &amp; SlicerMorph</strong></p>
 
-Pre-loaded for 3D morphometrics and biomedical imaging and running on [JetStream2](https://jetstream-cloud.org/), MorphoCloud lets you spin up a full desktop in your browser in minutes — no local setup. Instances are managed entirely through GitHub Issues: request one, then drive it with commands like `/create`, `/shelve`, and `/unshelve`.
+Pre-loaded for 3D morphometrics and biomedical imaging and running on [JetStream2](https://jetstream-cloud.org/), MorphoCloud lets you spin up a full desktop in your browser in minutes — no local setup. Instances are managed entirely through GitHub Issues: Join the organization first, then drive it with commands like `/create`, `/shelve`, and `/unshelve`.
 
 ## ▶ Get started at [**morphocloud.org**](https://morphocloud.org)
 
