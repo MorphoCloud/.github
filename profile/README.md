@@ -17,6 +17,15 @@ Head to **[morphocloud.org](https://morphocloud.org)** to check live resource av
 - **Instructor** — use MorphoCloud as part of a course
 - **Workshop organizer** — provision instances for an event
 
+## 🚀 Already joined? Your first instance in three steps
+
+1. **[Open the Instances page](https://github.com/MorphoCloud/Instances/issues)** — where everything happens.
+   *Seeing a 404? You're either not signed in to GitHub, or you haven't accepted the MorphoCloud invitation yet — [check your invitations](https://github.com/orgs/MorphoCloud/invitation).*
+2. **[Open an instance request](https://github.com/MorphoCloud/Instances/issues/new?template=01-individual-instance-request.yml)**, pick a flavor (we advise the default, **g3.large**), and press the green **Create** button. That only opens your request — your instance doesn't exist yet.
+3. On your new request, type **`/create`** in the comment box and press the green **Comment** button (Enter only adds a new line). The bot shows progress (~10 minutes), then your connection details arrive by email from **no-reply@morphocloud.org** — check spam the first time. GitHub's own notification emails can be ignored.
+
+Done for the day? Comment **`/shelve`** (shut down); **`/unshelve`** (restart) to resume. Stuck? See the [User Guide](https://github.com/MorphoCloud/docs/tree/main/user-guide) or email [portal@morphocloud.org](mailto:portal@morphocloud.org).
+
 ---
 
 NSF- and NIH-funded infrastructure for the morphology research community · Questions? [portal@morphocloud.org](mailto:portal@morphocloud.org)
