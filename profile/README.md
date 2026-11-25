@@ -7,24 +7,22 @@
 
 <p align="center"><strong>GPU-enabled cloud workstations for 3D Slicer &amp; SlicerMorph</strong></p>
 
-Pre-loaded for 3D morphometrics and biomedical imaging and running on [JetStream2](https://jetstream-cloud.org/), MorphoCloud lets you spin up a full desktop in your browser in minutes — no local setup. Instances are managed entirely through GitHub Issues: Join the organization first, then drive it with commands like `/create`, `/shelve`, and `/unshelve`.
+MorphoCloud gives you a full desktop for 3D morphometrics and biomedical imaging, running on [Jetstream2](https://jetstream-cloud.org/) and opened in your browser — no local setup. You create and manage your instance and your files from the [MorphoCloud portal](https://portal.morphocloud.org).
 
-## ▶ Get started at [**morphocloud.org**](https://morphocloud.org)
+## ▶ New here? Start at [**morphocloud.org**](https://morphocloud.org)
 
-Head to **[morphocloud.org](https://morphocloud.org)** to check live resource availability, learn more, and pick your path:
+1. **[Join](https://join.morphocloud.org)** — sign in with ORCID, then with GitHub, and fill in a short form.
+2. **Confirm your email**, then accept the GitHub invitation to the MorphoCloud organization. The welcome email follows from **no-reply@morphocloud.org** (check spam the first time).
+3. **[Sign in to the portal](https://portal.morphocloud.org)** with GitHub. The first time, GitHub asks you to authorize the **MorphoCloud Portal** app; press **Authorize**.
 
-- **Individual researcher** — join and request your own instance
-- **Instructor** — use MorphoCloud as part of a course
-- **Workshop organizer** — provision instances for an event
+## 🚀 Already a member? Everything is on the [portal](https://portal.morphocloud.org)
 
-## 🚀 Already joined? Your first instance in three steps
+- **Your storage (MyDrive):** there with or without an instance. Upload and download from **Open my files**.
+- **Your instance:** the availability line at the top of the portal shows which instance types are free right now. Choose one that is free and fits your work, and press **Create instance**. An email tells you when it is ready.
+- **Connect:** **Web connect** on your instance card opens the desktop in your browser. The card also has the SSH and TurboVNC details.
+- **Done for the day?** Press **Shelve**. Press **Unshelve** to continue.
 
-1. **[Open the Instances page](https://github.com/MorphoCloud/Instances/issues)** — where everything happens.
-   *Seeing a 404? You're either not signed in to GitHub, or you haven't accepted the MorphoCloud invitation yet — [check your invitations](https://github.com/orgs/MorphoCloud/invitation).*
-2. **[Open an instance request](https://github.com/MorphoCloud/Instances/issues/new?template=01-individual-instance-request.yml)**, pick a flavor (we advise the default, **g3.large**), and press the green **Create** button. That only opens your request — your instance doesn't exist yet.
-3. On your new request, type **`/create`** in the comment box and press the green **Comment** button (Enter only adds a new line). The bot shows progress (~10 minutes), then your connection details arrive by email from **no-reply@morphocloud.org** — check spam the first time. GitHub's own notification emails can be ignored.
-
-Done for the day? Comment **`/shelve`** (shut down); **`/unshelve`** (restart) to resume. Stuck? See the [User Guide](https://github.com/MorphoCloud/docs/tree/main/user-guide) or email [portal@morphocloud.org](mailto:portal@morphocloud.org).
+Stuck? Ask the **MorphoCloud Chatbot** on the portal, read the [User Guide](https://github.com/MorphoCloud/docs/tree/main/user-guide), or email [portal@morphocloud.org](mailto:portal@morphocloud.org).
 
 ---
 
